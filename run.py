@@ -1,8 +1,8 @@
 from microchat import client_tornado
 
 def main():
-    usrname = "13212345678"
-    passwd = "123456"
+    usrname = "getomgid"
+    passwd = "qwerdfb123"
     client_tornado.start(usrname, passwd)
 
 
